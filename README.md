@@ -35,6 +35,12 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive tile 
 
+HERE is the MockUp:
+
+
+![image](https://user-images.githubusercontent.com/93960159/178205480-eff44165-ca1c-4fd9-8e55-60e2a42b9fd0.png)
+
+
 These are the changes I have made to the webpage:
 
 Changing semantic elements to improve clairity
@@ -47,4 +53,4 @@ Added alt tags to all images
 
 Fixed the missing id tag for items in the nav section
 
-
+Here is the link to the webpage: https://JamesVaris.github.io/Code-Refactor/
